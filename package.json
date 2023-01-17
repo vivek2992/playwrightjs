@@ -1,0 +1,21 @@
+{
+  "name": "playwrightjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivek2992/playwrightjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivek2992/playwrightjs/issues"
+  },
+  "homepage": "https://github.com/vivek2992/playwrightjs#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.29.2"
+  }
+}
